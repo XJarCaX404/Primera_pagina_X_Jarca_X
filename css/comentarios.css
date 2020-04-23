@@ -78,7 +78,7 @@ img{
 .wave{
     height: 400px;
     width: 100%;
-    background: #780206;  /* fallback for old browsers */
+     background: #780206;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #061161, #780206);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #061161, #780206);
 
